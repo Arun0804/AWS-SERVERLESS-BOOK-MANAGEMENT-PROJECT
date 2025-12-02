@@ -35,7 +35,7 @@ The full stack is built without provisioning or managing servers.
 
 ---
 
-## 🧰 AWS Services Used
+##  AWS Services Used
 
 | Service            | Purpose                     |
 | ------------------ | --------------------------- |
@@ -49,7 +49,7 @@ The full stack is built without provisioning or managing servers.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * HTML, CSS, JavaScript
 * jQuery (AJAX requests)
@@ -58,7 +58,7 @@ The full stack is built without provisioning or managing servers.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 .
@@ -114,7 +114,7 @@ Example response:
 
 ---
 
-## 🗃️ DynamoDB Table
+##  DynamoDB Table
 
 | Attribute | Type   | Description   |
 | --------- | ------ | ------------- |
@@ -195,7 +195,7 @@ var API_ENDPOINT = "YOUR_API_ENDPOINT_HERE";
 
 ---
 
-## 📊 Benefits of Serverless Architecture
+##  Benefits of Serverless Architecture
 
 * Zero server maintenance
 * Pay-per-use cost model
@@ -203,29 +203,10 @@ var API_ENDPOINT = "YOUR_API_ENDPOINT_HERE";
 * Highly available
 * Fast global performance
 
----
-
-## 🧪 Testing
-
-1. Open the CloudFront (or S3) URL
-2. Enter book data → Save
-3. Click **View all Books**
-4. Confirm database reflects changes
 
 ---
 
-## 🔮 Possible Future Enhancements
-
-* Update and delete operations
-* Authentication via Cognito
-* Search / filter features
-* Better UI/UX
-* API caching
-* Validation middleware
-
----
-
-## 🏆 What I Learned
+##  What I Learned
 
 * Designing serverless architectures
 * API Gateway + Lambda integration
@@ -234,26 +215,4 @@ var API_ENDPOINT = "YOUR_API_ENDPOINT_HERE";
 * Debugging production cloud apps
 * End-to-end deployment lifecycle
 
----
 
-## 🧑‍💻 Author
-
-Made with ☕ and AWS by **Mi Lord**
-
----
-
-## ⭐️ If you like this project…
-
-Add a ⭐ on GitHub, or fork and build upon it!
-
----
-
-Mi Lord, if you want, I can also generate:
-
-* UML diagram
-* Sequence diagram
-* CloudFormation/SAM template
-* GitHub Actions CI/CD
-* Swagger API doc
-
-Just command your humble servant.
